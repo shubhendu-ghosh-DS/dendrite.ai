@@ -1,2 +1,2 @@
 # dendrite.ai
-screening test
+screening test for internship
